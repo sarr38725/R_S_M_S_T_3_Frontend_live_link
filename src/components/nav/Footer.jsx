@@ -84,12 +84,12 @@ const Footer = () => {
           <div>
             <h3 className="mb-4 font-semibold">Contact Info</h3>
             <ul className="space-y-2 text-sm text-gray-400">
-              <li>team3@gmail.com</li>
+              <li>rohit.sarkar55555555@gmail.com</li>
               <li>📞(+088) 01615755420</li>
               <li>
-                📍 123 Property Street
+                📍Saidpur,Nilphamari
                 <br />
-                City, State 12345
+                Division: Rangpur, Bangladesh.
               </li>
             </ul>
           </div>
